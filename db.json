@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "uname": "Renaissance",
+      "age": "24",
+      "residence": "punjab",
+      "address": "Amritsar",
+      "pin": "345",
+      "id": 2
+    },
+    {
+      "uname": "Tista",
+      "age": "24",
+      "residence": "punjab",
+      "address": "Amritsar",
+      "pin": "345",
+      "id": 3
+    },{
+      "uname": "Titas",
+      "age": "24",
+      "residence": "punjab",
+      "address": "Amritsar",
+      "pin": "345",
+      "id": 4
+    },{
+      "uname": "Saswati",
+      "age": "24",
+      "residence": "punjab",
+      "address": "Amritsar",
+      "pin": "345",
+      "id": 5
+    }
+  ]
+}
